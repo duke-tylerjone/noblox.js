@@ -59,6 +59,7 @@ jspm_packages/
 .env
 
 \.vscode/
+noblox.js-fork.code-workspace
 \.code-workspace/
 
 .idea/
